@@ -17,26 +17,40 @@ Through this analysis I used logical regression models to identify creditworthin
 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
-* Machine Learning Model 1:
-  * Description of Model 1 Accuracy, Precision, and Recall scores.
+** Machine Learning Model 1: Description of Model 1**
+    
 Accuracy: 99%
-Healthy Loans
+
+**Healthy Loans**
+
 Precision: 1
+
 Recall: 0.99
-High-Risk loans
+
+**High-Risk loans**
+
 Precision: 0.85
+
 Recall: 0.91
 
 
-* Machine Learning Model 2:
-  * Description of Model 2 Accuracy, Precision, and Recall scores.
+
+** Machine Learning Model 2:Description of Model 2 **
+    
   Accuracy: 99%
-Healthy Loans
+
+**Healthy Loans**
+
 Precision: 1
+
 Recall: 0.99
-High-Risk loans
+
+**High-Risk loans**
+
 Precision: 0.84
+
 Recall: 0.99
+
 
 ## Summary
 
